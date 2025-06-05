@@ -2,7 +2,7 @@
 
 **Author:** Michael Bush  
 **Alias:** Mr. Hadden  
-**Document:** `QSD_Foundation_AA.pdf`  
+**Document:** `QSD_Foundation.pdf`  
 **Category:** General Relativity and Quantum Cosmology (gr-qc)
 
 ---
