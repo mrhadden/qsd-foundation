@@ -45,14 +45,6 @@ This document is part of an arXiv submission in the **gr-qc** category. If you a
 
 ---
 
-## 💬 Note on the Author
-
-> “Why build one when you can build two at twice the price?”
-
-This account is maintained under the name **Mr. Hadden** — a quiet tribute to the visionary figure in *Contact* (1997) who championed exploration when others refused. That spirit lives in this work: a second machine, built not for approval, but for truth.
-
----
-
 ## 📜 License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
